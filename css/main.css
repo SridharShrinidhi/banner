@@ -25,9 +25,16 @@ html {
 }
 
 .banner {
-
+  display: inline-block;
+  position: relative;
+  max-height: 450px;
 }
 
 .banner-content {
-
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  color: white;
+  overflow: hidden;
 }
