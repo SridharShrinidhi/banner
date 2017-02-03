@@ -27,7 +27,7 @@ html {
 .banner {
   display: inline-block;
   position: relative;
-  max-height: 450px;
+  max-height: 460px;
 }
 
 .banner-content {
